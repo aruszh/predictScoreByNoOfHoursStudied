@@ -1,4 +1,4 @@
-# predictScoreByNoOfHoursStudied
+# predictingScoreByNoOfHoursStudied
 LinearRegression Solution For Sparks Foundation InternShip Project
 
 The file have extension of ipynb runs on jupyter server notebook and also their is a file with extension py to run on normal python IDE
